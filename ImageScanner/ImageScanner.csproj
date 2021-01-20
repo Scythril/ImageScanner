@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="7.23.0" />
     <PackageReference Include="Tesseract" Version="4.1.1" />
   </ItemGroup>
 
@@ -17,6 +18,72 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Egg_Inc_user_id_screenshot_fixed.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\ArtifactsUpdate\EI5329375827853312.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\ArtifactsUpdate\EI5329375827853312_cropped.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\ArtifactsUpdate\EI5978683158822912.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\ArtifactsUpdate\EI6340890870677504.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\ArtifactsUpdate\EI6530570839916544.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\102371659776481580429.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\114022436149232337527.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\a_6013137253596434356.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\a_7399449309197151524.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\C88BF0CF-1C04-4A9E-8C93-4A0C7014AD8E.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\g00848322373092675168.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\g01246701688514049641.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\g12340192235086377661.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\g16596599677550137972.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON1042913421.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON10696824410.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON11729355554.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON1623197934.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON292073504.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON502263892.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON803671754.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="screenshots\CurrentVersion\GCOLON836163050.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="tessdata\eng.traineddata">
